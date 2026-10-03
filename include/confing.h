@@ -5,7 +5,7 @@
 #define IR_SEND_PIN     23
 #define BUTTON_LEARN    17
 #define BUTTON_BLAST    5
-#define LED_RED         15
+#define LED_RED         14
 #define LED_GREEN       19
 
 // LCD
